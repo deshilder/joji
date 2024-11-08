@@ -1,0 +1,41 @@
+h1 {
+    font-size: 70px;
+    text-align: center;
+  }
+  
+  p,
+  li {
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #3a2f2f;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #EA7266;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #812c12;
+    text-shadow: 3px 3px 1px rgb(224, 105, 105);
+  }
+  img {
+    display: block;
+    margin: 1 auto;
+  }
+  h2 {
+    font-size: 70px;
+    text-align: center;
+  }
+  h2 {
+    margin: 0;
+    padding: 20px 0;
+    color: #0336a3;
+    text-shadow: 3px 3px 1px rgba(54, 37, 151, 0.651);
+  }
